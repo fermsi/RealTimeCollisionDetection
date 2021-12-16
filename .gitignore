@@ -58,3 +58,14 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#fermsi add==========================
+obj/
+#Unity generated
+Temp/
+Library/
+Logs/
+
+# rider cache directory
+.idea/
+UserSettings
+
